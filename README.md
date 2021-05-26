@@ -1,4 +1,8 @@
-# LocalStorage Mini Project <|> [Live Link](https://taiseen.github.io/local_storage_mini_project/){:target="_blank" rel="noopener"}
+# LocalStorage Mini Project <|> [Live Link](https://taiseen.github.io/local_storage_mini_project/)
+
+<a href="https://taiseen.github.io/local_storage_mini_project/" target="_blank">Live Link</a>
+
+[<a href="https://taiseen.github.io/local_storage_mini_project/" target="_blank">Live Link</a>]
 
 ## Feature of focus
 * change theme 
