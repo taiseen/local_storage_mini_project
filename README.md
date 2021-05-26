@@ -1,4 +1,4 @@
-# localStorage Mini Project <|> [Live Link](https://taiseen.github.io/local_storage_mini_project/)
+# LocalStorage Mini Project <|> [Live Link](https://taiseen.github.io/local_storage_mini_project/)
 
 ## Feature of focus
 * change theme 
