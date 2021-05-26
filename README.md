@@ -1,4 +1,4 @@
-# LocalStorage Mini Project <|> [Live Link](https://taiseen.github.io/local_storage_mini_project/)
+# LocalStorage Mini Project <|> [Live Link{:target="_blank" rel="noopener"}](https://taiseen.github.io/local_storage_mini_project/)
 
 <a href="https://taiseen.github.io/local_storage_mini_project/" target="_blank">Live Link</a>
 
